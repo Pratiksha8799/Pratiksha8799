@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratiksha8799" alt="pratiksha8799" /></a> </p>
 
-- 🔭 I’m currently working on **web scraping project**
+- 🔭 I’m currently learning on **ETL and it's tools**
 
 - 🌱 I’m currently learning **django framework**
 
